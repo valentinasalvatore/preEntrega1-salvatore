@@ -9,7 +9,7 @@ preEntrega1 Salvatore
 </head>
 <body>
    <script
-   let medidaCafe =  ("ingrese un medida")
+   let medidaCafe =  ("ingrese un numero")
    
    function cafeM (medidaCafe)
     if (medidaCafe == 300) [
