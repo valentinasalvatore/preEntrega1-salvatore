@@ -8,7 +8,7 @@ preEntrega1 Salvatore
 
 </head>
 <body>
-   <script    </script>
+   <script src   </script>
 
 </body>
 </html>
