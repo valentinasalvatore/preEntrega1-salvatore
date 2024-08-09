@@ -8,44 +8,8 @@ preEntrega1 Salvatore
 
 </head>
 <body>
-   <script
-   let medidaCafe =  ("ingrese un numero")
-   
-   function cafeM (medidaCafe)
-    if (medidaCafe == 300) [
-        console.log ("la medida del cafe es grande")
-    ] else if (medidaCafe ==170) [
-        console.log("la medida del cafe es mediano")
-   ] else if (medidaCafe ==100) [
-        console.log("la medida del cafe es chico")
-   ] else [
-        console.error ("no esta la medida indicada")
-   ]
-
-    let gustoFrappe = prompt ("ingrese un gusto")
-
-   function frapuccino (gustoFrappe)
-   while (gustaFrappe != "pistacho")
-    switch(gustoFrappe)[
-      case "vainilla":
-        console.log("su Gusto es vailnilla");
-      break
-      case "chocolate"
-        console.log("su Gusto es chocolate");
-      break
-      case "dulce de leche" 
-        console.log("el Gusto es dulce de leche")
-      break
-      case "cookies and cream"
-        console.log("el Gusto es cookies and cream")
-      break
-     default:
-        console.log("ninguno de los gustos anteriores");
-     break
-    ]
-     ingreseSuNombre = prompt("ingrese otro Gusto")  
-      
-   </script>
+   <script src="main.js.js"> </script>
 
 </body>
 </html>
+   
